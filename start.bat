@@ -1,2 +1,2 @@
-windows.exe
+rats.exe
 echo started
